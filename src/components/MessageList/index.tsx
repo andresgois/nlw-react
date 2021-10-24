@@ -1,6 +1,6 @@
 import styles from './style.module.scss';
 
-import logo from '../../../assets/logo.svg';
+import logo from '../../assets/logo.svg';
 
 export function MessageList(){
     return (
