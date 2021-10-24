@@ -8,6 +8,7 @@
 ### Dependências
 - yarn add sass
 - yarn add react-icons
+- yarn add axios
 
 ### Instruções
 - yarn create vite web --template react-ts
